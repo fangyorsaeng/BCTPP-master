@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+*.app
+.vscode/
+*.xlf
+=======
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+*.app
+*.flf
+.vscode/
+entitlements.json
+extensionsPermissionSet.xml
+*.zip
+>>>>>>> 0940835f06fcbfc51933897d436a5828b5801b6c
+
+# web client: https://st-137282.dynamicstocloud.com:8080/
+# customer share: \\dtcfssea01\PartnerShare\P101655\CustomerShare\C117945
+# FTP: ftp://ftp-sea.dynamicstocloud.com:989
+
+# RDP 1: SF-119896-1.dynamicstocloud.com:58118
+# RDP 2: SF-119896-2.dynamicstocloud.com:59906
+
+# partner user: thailand@xtricate.com
+# pw: Dynamics@DBC2020
+# TEST1
